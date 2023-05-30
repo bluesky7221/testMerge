@@ -14,10 +14,28 @@ app.get('/', (req, res) => {
 
 // 웹 서버를 시작하고 주어진 포트에서 실행합니다.
 app.listen(port, () => {
-  console.log('내가 맘대로 짜놓은 것');
-  console.log(d);
-  console.log(`Express 앱이 http://localhost:${port}에서 실행 중입니다.`);
   for (var i = 0; i < 5; i++ ) {
     console.log(d);
   }
+  console.log('내가 맘대로 짜놓은 것');
+  console.log(d);
+  console.log(`Express 앱이 http://localhost:${port}에서 실행 중입니다.`);
+  console.log('내가 맘대로 짜놓은 것');
+  console.log(d);
+  console.log(`Express 앱이 http://localhost:${port}에서 실행 중입니다.`);
+  console.log('내가 맘대로 짜놓은 것');
+  console.log(d);
+  console.log(`Express 앱이 http://localhost:${port}에서 실행 중입니다.`);
+  console.log('내가 맘대로 짜놓은 것');
+  console.log(d);
+  console.log(`Express 앱이 http://localhost:${port}에서 실행 중입니다.`);
+  console.log('내가 맘대로 짜놓은 것');
+  console.log(d);
+  console.log(`Express 앱이 http://localhost:${port}에서 실행 중입니다.`);
+  console.log('내가 맘대로 짜놓은 것');
+  console.log(d);
+  console.log(`Express 앱이 http://localhost:${port}에서 실행 중입니다.`);
+  console.log('내가 맘대로 짜놓은 것');
+  console.log(d);
+  console.log(`Express 앱이 http://localhost:${port}에서 실행 중입니다.`);
 });
